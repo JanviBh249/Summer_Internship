@@ -90,7 +90,6 @@ scikit-learn
 
  *This repository reflects the work carried out during my **Summer Internship**, bridging academic learning with real-world **AI applications in geospatial image analysis.***
 
-```
 
 
 
